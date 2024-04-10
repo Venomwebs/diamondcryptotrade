@@ -1,0 +1,2 @@
+# diamondcryptotrade
+Educational purposes
